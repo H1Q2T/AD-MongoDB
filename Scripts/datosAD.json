@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f91e"
+  },
+  "title": "The Matrix",
+  "year": 1999,
+  "director": "The Wachowskis",
+  "cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "summary": "Un pirata informàtic aprèn dels misteriosos rebels sobre la veritable naturalesa de la seva realitat i el seu paper en la guerra contra els seus controladors."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f91f"
+  },
+  "title": "The Irishman",
+  "year": 2019,
+  "director": "Martin Scorsese",
+  "cast": [
+    "Robert De Niro",
+    "Al Pacino"
+  ],
+  "summary": "és una pel·lícula que segueix la vida de Frank Sheeran, un assassí a sou que va treballar per a la mafia durant dècades, així com la seva relació amb el líder del sindicat del crim, Jimmy Hoffa."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f920"
+  },
+  "title": "Game of Thrones",
+  "year": 2019,
+  "director": "David Benioff",
+  "cast": [
+    "D.B. Weiss",
+    "Emilia Clarke",
+    "Kit Harington"
+  ],
+  "summary": "és una sèrie de TV que segueix diverses famílies nobles en la seva lluita pel tron de ferro dels Set Regnes de Westeros, tot mentre s'enfronten a amenaçes externes, com ara els caminants blancs."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f921"
+  },
+  "title": "Tenet",
+  "year": 2020,
+  "director": "Christopher Nolan",
+  "cast": [
+    "John David Washington",
+    "Robert Pattinson"
+  ],
+  "summary": "és una pel·lícula d'espionatge i acció que segueix un agent de la CIA que ha de prevenir la tercera guerra mundial amb l'ajuda d'una nova tecnologia que li permet invertir el temps."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f922"
+  },
+  "title": "Small Axe",
+  "year": 2020,
+  "director": "Steve McQueen",
+  "cast": [
+    "Letitia Wright",
+    "Malachi Kirby"
+  ],
+  "summary": "és una sèrie antològica que segueix la vida de la comunitat afrocaribenya de Londres durant els anys 60 i 70, així com les seves lluites contra la discriminació racial i la brutalitat policial."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f923"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": 2001,
+  "director": "Peter Jackson",
+  "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ],
+  "summary": "Un hòbbit humil de la Comarca i vuit companys emprenen un viatge per destruir el poderós Anell únic i salvar la Terra Mitjana del Senyor Fosc Sauron."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f924"
+  },
+  "title": "The Lion King",
+  "year": 1994,
+  "director": [
+    "Roger Allers",
+    "Rob Minkoff"
+  ],
+  "cast": [
+    "Matthew Broderick",
+    "Jeremy Irons",
+    "James Earl Jones"
+  ],
+  "summary": "El príncep lleó Simba i el seu pare són l'objectiu del seu amargat oncle, que vol pujar ell mateix al tron."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f925"
+  },
+  "title": "Inception",
+  "year": 2010,
+  "director": "Christopher Nolan",
+  "cast": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Ellen Page"
+  ],
+  "summary": "Un lladre que roba secrets corporatius mitjançant l'ús de tecnologia per compartir somnis té la tasca inversa de plantar una idea a la ment d'un CEO."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f926"
+  },
+  "title": "The Last of Us",
+  "year": 2023,
+  "director": "Neil Druckmann",
+  "cast": [
+    "Pedro Pascal",
+    "Bella Ramsey",
+    "Anna Torv"
+  ],
+  "summary": "Després que una pandèmia global destrueixi la civilització, un supervivent endurit es fa càrrec d'una noia de 14 anys que pot ser l'última esperança de la humanitat."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f927"
+  },
+  "title": "Merlí",
+  "year": 2015,
+  "director": "Héctor Lozano",
+  "cast": [
+    "Francesc Orella",
+    "Pere Ponce",
+    "Carlos Cuevas"
+  ],
+  "summary": "Sèrie de televisió sobre un professor de filosofia de l'institut, Merlí, que ensenya d'una manera original, i sobre els alumnes de la seva classe, inclòs el seu propi fill, i la relació, amistat, amor i problemes entre els alumnes de la classe."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f928"
+  },
+  "title": "One Piece",
+  "year": 1999,
+  "director": "Eiichirô Oda",
+  "cast": [
+    "Mayumi Tanaka",
+    "Laurent Vernin",
+    "Tony Beck"
+  ],
+  "summary": "Segueix les aventures del Monkey D. Ruffy i la seva tripulació de pirates per trobar el tresor més gran que ha deixat mai el llegendari pirata Gold Roger. El famós tresor misteriós anomenat One Piece."
+},{
+  "_id": {
+    "$oid": "641a1362aa5adf438aa1f929"
+  },
+  "title": "Dragon Ball",
+  "year": 1995,
+  "director": "Akira Toriyama",
+  "cast": [
+    "Brice Armstrong",
+    "Steve Olson",
+    "Stephanie Nadolny"
+  ],
+  "summary": "Bola de Drac explica la història d'un jove guerrer anomenat Son Goku, un nen peculiar amb una cua que s'embarca en una recerca per fer-se més fort i s'assabenta de les Boles de Drac, quan, un cop reunides les 7, concedeix qualsevol desig de elecció."
+}]
